@@ -2,7 +2,7 @@
 
 XX-Net
 ========
-翻墙工具套件  
+Fan Qiang 工具套件  
 * GAE proxy, 稳定、易用、快速  
   Stable, easy and fast proxy  
 * Web界面，人性化交互  
